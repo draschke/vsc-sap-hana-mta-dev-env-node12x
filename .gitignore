@@ -19,10 +19,10 @@ build-sap-overview-page
 dr-cf-build-sap-overview-page-2
 hana-shine-xsa
 
-docs/.vitepress
-docs/index.md 
-docs/config
-docs/components
+# docs/.vitepress
+# docs/index.md 
+# docs/config
+# docs/components
 
 # node
 # ====
