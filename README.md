@@ -34,7 +34,8 @@ node ➜ /workspaces/vsc-sap-hana-mta-dev-env-node12x/XS_CLIENT00P_134-70001320/
 $ chmod -R +x bin
 ```
 
-After that you may start the Dev Container by running ***Rebuild Container*** (For first time in will take approx. 15 min)
+After that you can build the Dev Container by clicking the [Remote Status bar](https://code.visualstudio.com/docs/remote/containers-tutorial#_check-installation). 
+Only for the first time the building of the Dev Container takes about 10 minutes, but then in no time!
 
 ### Hints
 
