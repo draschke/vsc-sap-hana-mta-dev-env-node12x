@@ -18,6 +18,10 @@ dr-cf-build-sap-overview-page
 build-sap-overview-page
 dr-cf-build-sap-overview-page-2
 hana-shine-xsa
+XSA
+BM 
+test*
+package-lock.json
 
 # docs/.vitepress
 # docs/index.md 
