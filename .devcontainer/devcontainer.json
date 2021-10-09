@@ -78,6 +78,7 @@
     "sapos.yeoman-ui",
     "saposs.sap-hana-driver-for-sqltools",
     "saposs.xml-toolkit",
+    "saposs.vscode-ui5-language-assistant",
     "sapse.sap-ux-annotation-modeler-extension",
     "sapse.sap-ux-application-modeler-extension",
     "sapse.sap-ux-fiori-tools-extension-pack",
